@@ -28,6 +28,6 @@ Eis as formas de obter nota:
 
 # Como me candidato a ser um Hero?
 
-Basta ser um dev ZRP e preencher esse formulário
+Basta ser um dev ZRP e preencher [esse formulário](http://app.pipefy.com/public/form/n3o8MrOA)
 
 # WIP: Lista de Heros ZRP
